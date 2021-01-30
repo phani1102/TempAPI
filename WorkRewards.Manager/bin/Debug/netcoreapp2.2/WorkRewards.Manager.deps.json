@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "WorkRewards.Manager/1.0.0": {
+        "dependencies": {
+          "WorkRewards.Data.Interface": "1.0.0",
+          "WorkRewards.Manager.Interface": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0.0"
+        },
+        "runtime": {
+          "WorkRewards.Manager.dll": {}
+        }
+      },
+      "WorkRewards.Data.Interface/1.0.0": {
+        "dependencies": {
+          "WorkRewards.DTO": "1.0.0"
+        },
+        "runtime": {
+          "WorkRewards.Data.Interface.dll": {}
+        }
+      },
+      "WorkRewards.DTO/1.0.0": {
+        "runtime": {
+          "WorkRewards.DTO.dll": {}
+        }
+      },
+      "WorkRewards.Manager.Interface/1.0.0": {
+        "dependencies": {
+          "WorkRewards.DTO": "1.0.0"
+        },
+        "runtime": {
+          "WorkRewards.Manager.Interface.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkRewards.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkRewards.Data.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkRewards.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkRewards.Manager.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

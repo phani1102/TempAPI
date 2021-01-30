@@ -1,0 +1,9 @@
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\bin\Debug\netcoreapp2.2\WorkRewards.DTO.deps.json
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\bin\Debug\netcoreapp2.2\WorkRewards.DTO.dll
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\bin\Debug\netcoreapp2.2\WorkRewards.DTO.pdb
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\obj\Debug\netcoreapp2.2\WorkRewards.DTO.csprojAssemblyReference.cache
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\obj\Debug\netcoreapp2.2\WorkRewards.DTO.csproj.CoreCompileInputs.cache
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\obj\Debug\netcoreapp2.2\WorkRewards.DTO.AssemblyInfoInputs.cache
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\obj\Debug\netcoreapp2.2\WorkRewards.DTO.AssemblyInfo.cs
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\obj\Debug\netcoreapp2.2\WorkRewards.DTO.dll
+E:\Projects\HomeWorkAPI1\HomeWorkAPI1\WorkRewards.DTO\obj\Debug\netcoreapp2.2\WorkRewards.DTO.pdb
